@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Darshan M
 
-<!--
-**darshu-tech/darshu-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MCA Student @ Amrita Vishwa Vidyapeetham, Mysuru
 
-Here are some ideas to get you started:
+Aspiring Java Full Stack Developer passionate about building real-world software applications and solving coding challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+* Java Full Stack Development
+* Data Structures & Algorithms
+* SQL & Database Design
+* System Design Fundamentals
+
+### 💻 Technical Skills
+
+* Java
+* Python
+* SQL
+* HTML
+* CSS
+* JavaScript
+* Flask
+* Git & GitHub
+
+### 🎯 2026 Goals
+
+* Crack Software Developer Placements
+* Master DSA
+* Build Production-Ready Applications
+* Become a Java Full Stack Developer
+
+### 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/darshan-m-200415d
+* Email: darshu2598@gmail.com
